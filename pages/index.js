@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> Hello  i'm Smart. I'm a software engineer, an intern at SIMBA </p>
+        <p> Hello  im Smart. Im a software engineer, an intern at SIMBA </p>
        
       </section>
 
